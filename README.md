@@ -7,15 +7,20 @@ Features:
 --1.Search multiple StackExchange / StackOverflow Q&A by upvotes or relevance
 
 Functions: 
---See more answers faster
+--See more questions & answers faster
 
 Goals: 
 --Identify and solve programming problems with more fluidity & agility
 
 Wireframes: 
 --Desktop
+https://imgur.com/Nk4D41W
+
 --Tablet
+https://imgur.com/PHap04V
+
 --Mobile
+https://imgur.com/qWKKCEQ
 
 API: 
 --StackExchange
