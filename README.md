@@ -4,14 +4,13 @@ Title:
 --FlowStacks
 
 Features: 
---1.Search multiple StackExchange / StackOverflow Q&A by popularity or recency.
+--1.Search multiple StackExchange / StackOverflow Q&A by upvotes or relevance
 
 Functions: 
---See more answers faster, all at once. 
+--See more answers faster
 
 Goals: 
---Scan for more answers, faster
---Identify and solve programming problems with more agility
+--Identify and solve programming problems with more fluidity & agility
 
 Wireframes: 
 --Desktop
@@ -22,10 +21,10 @@ API: 
 --StackExchange
 
 MVP: 
---Search
---Filter
---Responsive Multi-Column Layout 
+--Search Q&A
+--Sort by relevance & upvotes
+--Responsiveness
 
 Post-MVP Goals:
 --Refined CSS & UI/UX Design  
---More refined and/or complex filtering and querying.
+--More refined and/or complex filtering and querying
