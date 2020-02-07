@@ -1,35 +1,36 @@
 Stef Wong
 
-Title:
---FlowStacks
+*Title*
+FlowStacks
 
-Features: 
---1.Search multiple StackExchange / StackOverflow Q&A by upvotes or relevance
+*Features*
+Search multiple StackExchange / StackOverflow Q&A by upvotes or relevance
 
-Functions: 
---See more questions & answers faster
+*Functions* 
+See more questions & answers faster
 
-Goals: 
+*Goals* 
 --Identify and solve programming problems with more fluidity & agility
 
-Wireframes: 
---Desktop
-https://imgur.com/Nk4D41W
+*Wireframes*
 
---Tablet
-https://imgur.com/PHap04V
+Desktop
+![Desktop](https://imgur.com/Nk4D41W)
 
---Mobile
-https://imgur.com/qWKKCEQ
+Tablet
+![Tablet](https://imgur.com/PHap04V)
 
-API: 
---StackExchange
+Mobile
+![Mobile](https://imgur.com/qWKKCEQ)
 
-MVP: 
---Search Q&A
---Sort by relevance & upvotes
---Responsiveness
+*API*
+StackExchange
 
-Post-MVP Goals:
---Refined CSS & UI/UX Design  
---More refined and/or complex filtering and querying
+*MVP*
+Search Q&A
+Sort by relevance & upvotes
+Responsiveness
+
+*Post-MVP Goals*
+Refined CSS & UI/UX Design  
+More refined and/or complex filtering and querying
